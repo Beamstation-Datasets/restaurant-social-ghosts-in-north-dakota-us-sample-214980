@@ -1,0 +1,12 @@
+{
+  "export_job_id": "0c420e22-254a-46cf-8ae6-8c3219850bc3",
+  "id_short": 214980,
+  "published_at": "2026-04-11T07:08:29Z",
+  "repo_name": "restaurant-social-ghosts-in-north-dakota-us-sample-214980",
+  "sample_asset_name": "beamstation_214980_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/214980/beamstation_214980_restaurants-us-nd_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "f0666f3162f71054f777efada8b6fc220ab685fa83d520b4833d5cf83a29dad1",
+  "sample_size_bytes": 21894,
+  "total_records": 20
+}
