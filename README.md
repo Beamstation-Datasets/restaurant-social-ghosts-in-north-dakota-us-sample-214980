@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 20 records |
 | Free sample size | 2 records (10.0%) |
-| Last export | 2026-04-08T04:10:55.013069+00:00 |
+| Last export | 2026-04-15T08:53:51.906237+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-north-dakota-us-sample-214980/releases/download/sample-latest/beamstation_214980_restaurants-us-nd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
